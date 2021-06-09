@@ -1,0 +1,14 @@
+C:\Users\guillermo\source\repos\QuarkSolution\QuarkSolution\bin\Debug\QuarkSolution.exe.config
+C:\Users\guillermo\source\repos\QuarkSolution\QuarkSolution\bin\Debug\QuarkSolution.exe
+C:\Users\guillermo\source\repos\QuarkSolution\QuarkSolution\bin\Debug\QuarkSolution.pdb
+C:\Users\guillermo\source\repos\QuarkSolution\QuarkSolution\obj\Debug\QuarkSolution.csprojAssemblyReference.cache
+C:\Users\guillermo\source\repos\QuarkSolution\QuarkSolution\obj\Debug\QuarkSolution.csproj.CoreCompileInputs.cache
+C:\Users\guillermo\source\repos\QuarkSolution\QuarkSolution\obj\Debug\QuarkSolution.exe
+C:\Users\guillermo\source\repos\QuarkSolution\QuarkSolution\obj\Debug\QuarkSolution.pdb
+C:\Users\guillermo\source\repos\QuarkSolution - copia\QuarkSolution\obj\Debug\QuarkSolution.csprojAssemblyReference.cache
+C:\Users\guillermo\source\repos\QuarkSolution - copia\QuarkSolution\obj\Debug\QuarkSolution.csproj.CoreCompileInputs.cache
+C:\Users\guillermo\source\repos\QuarkSolution - copia\QuarkSolution\obj\Debug\QuarkSolution.exe
+C:\Users\guillermo\source\repos\QuarkSolution - copia\QuarkSolution\obj\Debug\QuarkSolution.pdb
+C:\Users\guillermo\source\repos\QuarkSolution - copia\QuarkSolution\bin\Debug\QuarkSolution.exe.config
+C:\Users\guillermo\source\repos\QuarkSolution - copia\QuarkSolution\bin\Debug\QuarkSolution.exe
+C:\Users\guillermo\source\repos\QuarkSolution - copia\QuarkSolution\bin\Debug\QuarkSolution.pdb
