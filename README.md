@@ -9,10 +9,9 @@
 
 4-La interfaz actua como un contrato para la clase que debera cumplir con los atributos y/o metodos que la interfaz contenga.  
 
-5-Agregacion: si la clase Principal dejara de existir la clase Secundaria seguiria existiendo.
+5-Agregacion: si la clase Principal dejara de existir la clase Secundaria seguiria existiendo.<br />
   Composicion: a diferencia de esta donde si la clase Pincipal dejara de existir tambien lo haria la Secundaria.  
   
-6-A- Verdadero.  
-
-  B- Falso. 
+6-A- Verdadero.<br />
+  B- Falso. <br />
   C- Flaso.
