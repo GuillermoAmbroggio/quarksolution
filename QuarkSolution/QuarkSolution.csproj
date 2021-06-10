@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\Desktop\QuarkExam.cs" />
+    <Compile Include="QuarkSolution.cs" />
     <Compile Include="PartB.cs" />
     <Compile Include="ParteA.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
